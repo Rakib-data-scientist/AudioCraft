@@ -1,6 +1,6 @@
 # AudioCraft
 
-Inspired by : https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/
+Inspired by : https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/ &
 https://github.com/facebookresearch/audiocraft
 
 1.
