@@ -1,8 +1,6 @@
 # AudioCraft
 
-Inspired by :
-1. https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/
-2. https://github.com/facebookresearch/audiocraft
+Inspired by : https://github.com/facebookresearch/audiocraft
 
 1.
 ![AudioCraft-Making-Generative-Audio-Accessible_page-0001](https://github.com/Rakib-data-scientist/AudioCraft/assets/137823730/40498aed-ca58-4c98-b28d-94dcd62724a9)
